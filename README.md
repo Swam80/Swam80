@@ -17,3 +17,13 @@ An Applied Physics graduate and a self taught aspiring Data Scientist and Data A
   * [Cognizant Virtual Internship](https://github.com/Swam80/Cognizant_AI_Internship_Forage)
   * [British Airways Virtual Internship](https://github.com/Swam80/BritishAirways_Internship)
 
+## Tech Stack
+
+!Python
+!SQL
+!Tableau
+!PowerBI
+!Excel
+!Pandas
+!Scikit-learn
+!Streamlit
