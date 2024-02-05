@@ -1,6 +1,6 @@
 # Hello, I'm Swamesh 👋
 
-An Applied Physics graduate and a self taught aspiring Data Scientist and Data Analyst trying to upskill and learn about the data world to solve real world problems.
+An Applied Physics graduate and a self taught aspiring Data Scientist and Data Analyst trying to upskill and learn about the data world to solve real world problems. Currently working on projects to upskill myself and learn new things about the data world!
 
 
 
@@ -17,7 +17,6 @@ An Applied Physics graduate and a self taught aspiring Data Scientist and Data A
   * [Cognizant Virtual Internship](https://github.com/Swam80/Cognizant_AI_Internship_Forage)
   * [British Airways Virtual Internship](https://github.com/Swam80/BritishAirways_Internship)
 
-## Tech Stack
 
 ## Tech Stack
 
