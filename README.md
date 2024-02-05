@@ -19,11 +19,7 @@ An Applied Physics graduate and a self taught aspiring Data Scientist and Data A
 
 ## Tech Stack
 
-!Python
-!SQL
-!Tableau
-!PowerBI
-!Excel
-!Pandas
-!Scikit-learn
-!Streamlit
+## Technologies I Use
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-orange.svg) ![Tableau](https://img.shields.io/badge/Tableau-Desktop-green.svg) ![Power BI](https://img.shields.io/badge/Power_BI-Desktop-orange.svg) ![Excel](https://img.shields.io/badge/Excel-2023-blue.svg) ![pandas](https://img.shields.io/badge/pandas-1.6.0-green.svg) ![scikit-learn](https://img.shields.io/badge/scikit-learn-1.2.0-orange.svg) ![Streamlit](https://img.shields.io/badge/Streamlit-1.14.0-lightpink.svg)]
+
