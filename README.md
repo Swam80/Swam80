@@ -4,7 +4,7 @@ An Applied Physics graduate and a self taught aspiring Data Scientist and Data A
 
 
 
-## My Repositories
+## My Projects
     
 - Data Analytics Projects
   * [Supply Chain FMCG Power BI Project](https://github.com/Swam80/Supply-Chain-FMCG-project_codebasics)
