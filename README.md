@@ -1,6 +1,6 @@
 # Hello, I'm Swamesh 👋
 
-An Applied Physics graduate and a self taught aspiring Data Scientist and Data Analyst trying to upskill and learn about the data world to solve real world problems. Currently working on projects to upskill myself and learn new things about the data world!
+I have a degree in Applied Physics and a passion for Data Science and Data Analysis. I am learning new skills and techniques to explore and solve data-driven challenges. I am working on various projects to enhance my knowledge and experience in the data domain.
 
 
 
