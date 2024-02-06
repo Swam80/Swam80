@@ -14,7 +14,7 @@ I have a degree in Applied Physics and a burgeoning interest in Data Science and
   * [Supply Chain FMCG Power BI Project](https://github.com/Swam80/Supply-Chain-FMCG-project_codebasics)
   * [AtliQ Sales Analysis Tableu Project](https://github.com/Swam80/AtliQ-Sales-Insights_Tableu-)
   * [AtliQ HR analytics Power BI Project](https://github.com/Swam80/AtliQ-HR-Analytics)
-  * [AtliQ Hardware SQL Project](https://github.com/Swam80/SQL_Project_AtliQ_AdHoc/blob/main/README.md)
+  * [AtliQ Hardware SQL Project](https://github.com/Swam80/SQL_Project_AtliQ_AdHoc/tree/main)
   * [Financial and Sales Analytics project using Excel](https://github.com/Swam80/Excel-Project_AtliQhardware/tree/main)
     
 - Data Science Projects
