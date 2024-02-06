@@ -5,7 +5,7 @@ I have a degree in Applied Physics and a passion for Data Science and Data Analy
 - 🌱 I’m currently learning Deep Learning and Generative AI.
 - 📫 How to reach me:
     * swamesh80@gmail.com
-    * Linkedin : (https://www.linkedin.com/in/swameshl/) 
+    * [Linkedin](https://www.linkedin.com/in/swameshl/) 
 
 
 ## My Projects
