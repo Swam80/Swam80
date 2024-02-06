@@ -1,6 +1,6 @@
 # Hello, I'm Swamesh 👋
 
-I have a degree in Applied Physics and a passion for Data Science and Data Analysis. I am learning new skills and techniques to explore and solve data-driven challenges. I am working on various projects to enhance my knowledge and experience in the data domain.
+I have a degree in Applied Physics and a burgeoning interest in Data Science and Data Analysis. I'm a quick learner and self-proclaimed geek, actively pursuing new skills and techniques to tackle data-driven challenges. Currently, I'm engaged in various projects to deepen my knowledge in the data domain
 
 - 🌱 I’m currently learning Deep Learning and Generative AI.
 - 📫 How to reach me:
