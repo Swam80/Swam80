@@ -15,7 +15,7 @@ I have a degree in Applied Physics and a passion for Data Science and Data Analy
     
 - Data Science Projects
   * Data Science Intern at Omdena for the project [Omdena Hyderabad Chatbot for AI Interview](https://github.com/OmdenaAI/omdena-hyderabad-Chatbot-for-interview)
-    - Assisted in data preprocessing using NLP and worked on the UI part of the project using streamlit. Integrated Speed-to-Text functionality along with other core components like Question Generation RAG system and Evaluation Framework using Hugging Face LLM model and Langchain.
+    - I was a part of very enthusiastic team for the Omdena Local Chapter where I assisted in data preprocessing using NLP and worked on the UI part of the project using streamlit. Integrated Speed-to-Text functionality along with other core components like Question Generation RAG system and Evaluation Framework using Hugging Face LLM model and Langchain.
   * [Cognizant Virtual Internship](https://github.com/Swam80/Cognizant_AI_Internship_Forage)
   * [British Airways Virtual Internship](https://github.com/Swam80/BritishAirways_Internship)
   * [Chat with PDFs using Google Gemini Pro](https://github.com/Swam80/LLM_GoogleGeminiPro_ChatPdf)
