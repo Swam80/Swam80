@@ -11,6 +11,7 @@ I have a degree in Applied Physics and a burgeoning interest in Data Science and
 ## My Projects
     
 - Data Analytics Projects
+  * [ Tata - Forage Job Simulation](https://github.com/Swam80/Tata_Forage_JobSimulation)
   * [Supply Chain FMCG Power BI Project](https://github.com/Swam80/Supply-Chain-FMCG-project_codebasics)
   * [AtliQ Sales Analysis Tableu Project](https://github.com/Swam80/AtliQ-Sales-Insights_Tableu-)
   * [AtliQ HR analytics Power BI Project](https://github.com/Swam80/AtliQ-HR-Analytics)
